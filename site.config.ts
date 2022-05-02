@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'lizhimiao的博客',
-  domain: 'lizhimiao.com',
-  author: 'zhimiao li',
+  name: '祝轻君的书架',
+  domain: 'book.zhuqingjun.com',
+  author: '祝轻君',
 
   // open graph metadata (optional)
-  description: '笔记、博客和其他记录',
+  description: '读过的书',
 
   // social usernames (optional)
   twitter: '_lizhimiao',
